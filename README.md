@@ -1,8 +1,8 @@
 # 2122-iot1-programmiersprachen i
-hfg Schwäbisch Gmünd - Code examples and further links 
+hfg Schwäbisch Gmünd - Code examples and further links
 
 ## lecture 12.10.
-Topics we covered:
+Topics of this lecture:
 Organisatorisches, Lehrinhalte, Benotung, Struktur des Kurses, Einführung in p5*js, p5 Account erstellen, Robot und Symbol entwerfen und programmieren
 
 Links:
@@ -10,7 +10,7 @@ Sign in for p*5 js: https://editor.p5js.org/
 p*5 js References: https://p5js.org/reference/
 
 ## lecture 19.10.
-Topics we covered or started:
+Topics of this lecture:
 Compiler und Interpreter, Datentypen, Operatoren, Hauptthema: Variablen
 
 Links:
