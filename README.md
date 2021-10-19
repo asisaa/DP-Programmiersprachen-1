@@ -28,3 +28,6 @@ https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javasc
 
 Variablen global & local scope example
 https://p5js.org/examples/data-variable-scope.html
+
+Operators
+https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators
