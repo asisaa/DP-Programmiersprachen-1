@@ -1,5 +1,5 @@
 # 2122-iot1-programmiersprachen i
-Example code for Programmiersprachen 1 - IoT WS21/22 - hfg Schwäbisch Gmünd
+hfg Schwäbisch Gmünd - Code examples and further links 
 
 ## lecture 12.10.
 Topics we covered:
