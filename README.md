@@ -6,8 +6,8 @@ Topics of this lecture:
 Organisatorisches, Lehrinhalte, Benotung, Struktur des Kurses, Einführung in p5*js, p5 Account erstellen, Robot und Symbol entwerfen und programmieren
 
 Links:
-Sign in for p*5 js: https://editor.p5js.org/
-p*5 js References: https://p5js.org/reference/
+Sign in for p5*js: https://editor.p5js.org/
+p5*js References: https://p5js.org/reference/
 
 ## lecture 19.10.
 Topics of this lecture:
@@ -17,7 +17,7 @@ Links:
 Compiler & Interpreter
 https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
 
-Easy JavaScript Examples
+JS easy examples
 https://www.w3schools.com/js/js_intro.asp
 
 JS Documentation
@@ -26,8 +26,8 @@ https://devdocs.io/javascript/
 JS CheatSheet
 https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
 
-Variablen global & local scope example
+P5 JS Variablen global & local scope example
 https://p5js.org/examples/data-variable-scope.html
 
-Operators
+JS Operators
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators
