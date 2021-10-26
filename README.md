@@ -29,5 +29,17 @@ https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javasc
 P5 JS Variablen global & local scope example
 https://p5js.org/examples/data-variable-scope.html
 
+
+## lecture 26.10.
+Topics of this lecture:
+Visual Studio Code nutzen, Einbinden der Processing library, Conditionals and If Else Statements, Logische Operatoren
+
+Links:
 JS Operators
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators
+
+If Else, Conditional Statements
+https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/if...else
+
+https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/
+
