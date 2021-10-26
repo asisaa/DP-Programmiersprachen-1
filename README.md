@@ -13,7 +13,7 @@ p5*js References: https://p5js.org/reference/
 Topics of this lecture:
 Compiler und Interpreter, Datentypen, Operatoren, Hauptthema: Variablen
 
-Links:
+Further links:
 Compiler & Interpreter
 https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
 
@@ -34,7 +34,7 @@ https://p5js.org/examples/data-variable-scope.html
 Topics of this lecture:
 Visual Studio Code nutzen, Einbinden der Processing library, Conditionals and If Else Statements, Logische Operatoren
 
-Links:
+Further links:
 JS Operators
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators
 
