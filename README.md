@@ -54,5 +54,5 @@ https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/
 While Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#while_statement
 
-For Schleifen
+For Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement
