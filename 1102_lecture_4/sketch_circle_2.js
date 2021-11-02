@@ -14,7 +14,7 @@ function setup() {
             ellipse(
                 diameter/2 + i * diameter,
                 diameter/2 + j * diameter,
-                //diameter * random()
+                diameter * random()
                 diameter
             );
         }
