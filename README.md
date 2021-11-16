@@ -56,3 +56,11 @@ https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#w
 
 For Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement
+
+## lecture 16.11.21
+Topics of this lecture: Loops, Nested Loops, Objects, Arrays
+
+Further reading:
+Horstmann, Cay (2021): JavaScript für Ungeduldige der schnelle Einstieg in modernes JavaScript, 1. Aufl., Heidelberg, Deutschland: dpunkt.verlag.
+
+
