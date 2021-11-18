@@ -1,0 +1,4 @@
+Es sind zwei Augaben. Aufgabe 1. ist in name_arrays.js erklärt und in diesem file schreibt ihr auch den code. 
+Aufgabe 2. ist in color_obect.js erklärt und der code kommt in dieses file. 
+Die erste Aufgabe ist eine reine Ausgabe in der console.  
+Deadline der Hausaufgabe ist der 30.11. es zählt das check in Datum in git hub.
