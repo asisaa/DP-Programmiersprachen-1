@@ -16,10 +16,28 @@ function setup() {
 
 function draw() {
 	background(220);
-    grid(5, 30, 20); //function call
+    grid(10, 30, 20); //function call
 }
 //function declaration
 function grid (numX, numY, size) {
 
+    fill (237, 34, 93);
+    noStroke(); 
 
+    for (let j=0; j<numX; j++) 
+    {
+    	console.log(j);
+            for (let i=0; i<numY; i++) 
+            {
+            console.log("i:",i);
+            ellipse(
+                size/2 + i * size,
+                size/2 + j * size,
+                size,
+                size);
+          
+            }
+        
+            
+    }
 }

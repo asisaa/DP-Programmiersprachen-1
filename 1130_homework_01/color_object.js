@@ -24,6 +24,25 @@ function setup(){
     // Schreibe ein Rectangel Object mit dem selben Verhalten wie das Circle Object nur das die x und y coordinaten 0 sind
     // rectangle = {}
 
+    rectangle = {
+        x: 0,
+        y: 0,
+        size: 10,
+        draw: function() {
+            rect(this.x, this.y, this.size, this.size);
+        },
+        grow: function() {
+            if (this.size < 200){
+                this.size += 1;
+            }
+        }
+    }
+    //rectangle properties
+    fill(23, 34, 93);
+    noStroke();
+    rectangle.draw();
+    rectangle.grow();
+
 }
 
 function draw() {
@@ -34,9 +53,10 @@ function draw() {
     noStroke();
     circle.draw();
     circle.grow();
+    rectangle.draw();
+    rectangle.grow();
 
     //rectangle properties
     //Zeichne dein rectangle object indem du es genauso wie das circle object aufrufst
-
 
 }
