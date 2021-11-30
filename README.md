@@ -63,4 +63,11 @@ Topics of this lecture: Loops, Nested Loops, Objects, Arrays
 Further reading:
 Horstmann, Cay (2021): JavaScript für Ungeduldige der schnelle Einstieg in modernes JavaScript, 1. Aufl., Heidelberg, Deutschland: dpunkt.verlag.
 
+## lecture 30.11.21
+Topics of this lecture: Functions, discussion and presentation of homework assignment (array, object and bonus exercise)  
+
+Further link:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+
 
