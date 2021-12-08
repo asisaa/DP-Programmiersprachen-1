@@ -1,0 +1,6 @@
+.auswahl {
+    float: left; position: relative;
+    background: white;
+    height: 120px; width: 100px;
+    margin: 20px; padding: 10px;
+}

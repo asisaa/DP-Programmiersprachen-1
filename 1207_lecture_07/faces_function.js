@@ -1,4 +1,12 @@
 //This example is from: https://nycdoe-cs4all.github.io/units/5/overview 
+/* Example code for the excercice: 
+WAS: Überlegt ein Programm in dem euer Character mehrfach vorkommt. 
+Bonus: Euer Charakter kommt mehrfach vor und hat verschiedene Gesichtsausdrücke oder Körperbewegungen
+
+WIE: Überlegt euch vorab wie ihr das Programm schreibt. 
+Must have: Schreibt eure Vorüberlegungen in das .js file und dokumentiert es aus. Nutzt Funktionen, Arrays und Loops 
+
+WOMIT: JavaScript und Processing Library */
 
 let x, y;
 let radius;
