@@ -69,5 +69,12 @@ Topics of this lecture: Functions, discussion and presentation of homework assig
 Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
+## lecture 07.12.21
+Topics of this lecture: Methodische vorgehensweise, Excercise(description in the example code of this lecture) 
+
+Further links:
+https://nycdoe-cs4all.github.io/units/5/overview
+
+
 
 
