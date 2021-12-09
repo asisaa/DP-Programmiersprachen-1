@@ -1,5 +1,5 @@
 //This example is from: https://nycdoe-cs4all.github.io/units/5/overview 
-/* Example code for the excercice: 
+/* Example code for the exercise: 
 WAS: Überlegt ein Programm in dem euer Character mehrfach vorkommt. 
 Bonus: Euer Charakter kommt mehrfach vor und hat verschiedene Gesichtsausdrücke oder Körperbewegungen
 
