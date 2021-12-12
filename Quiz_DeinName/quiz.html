@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="styles.css">
+    <script src="quizz.js"></script>
+
+</head>
+<body class = "bodyclass">
+    <div onclick="starteNeueRunde();" class = "questionfield" >
+    <p id="Frage">Wilkommen zum Quiz</p>
+    <p id="Antworten">Klicke hier, um dein Quiz zu starten.</p>
+    </div>
+    
+         
+    <div class = "auswahldiv">
+        <p id="1" class="auswahl" onclick="tippeButton(this);">1</p>
+        <p id="2" class="auswahl" onclick="tippeButton(this);">2</p>
+        <p id="3" class="auswahl" onclick="tippeButton(this);">3</p>
+    </div>
+
+    <div class = "auswahldiv">  
+    <p class = "nextbutton" onclick="starteNeueRunde();">Nächste Frage</p>
+    </div>
+
+</body>
+</html>
