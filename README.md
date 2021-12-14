@@ -75,6 +75,13 @@ Topics of this lecture: Methodische vorgehensweise, Excercise(description in the
 Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
+## lecture 14.12.21
+Topics of this lecture: Introduction to Final Project Quiz, Array exmaple shift, array example split 
+
+Further links:
+https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
+
+
 
 
 
