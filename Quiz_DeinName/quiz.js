@@ -2,7 +2,7 @@
 /* 
 Aus einer Menge aus Fragen sollen im Quiz Fragen angezeigt werden, dies klingt doch Verdächtig nach einem Array.
 
-Die Runden sollen auf 5 begranzt sein. Dies läßt sich gut in einer Variablen namens runden festhalten.
+Die Runden sollen auf 5 begrenzt sein. Dies läßt sich gut in einer Variablen namens runden festhalten.
 
 Um die Punkte zu merken bietet sich eine Variable names punkte an, in dem wir die Punkte speichern. 
 

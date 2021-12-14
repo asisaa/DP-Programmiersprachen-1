@@ -7,7 +7,7 @@ Wie: Wir können alles Anwenden was wir gelernt haben: Variablen, if else statem
 Womit: JavaScript (Programmierung), html, CSS (User Interface), Firefox Browser ab Version 95.0
 
 Termine:
-Kickoff: 14.12.2021 S
+Kickoff: 14.12.2021 
 Abgabedatums: 21.01.2022 es zählt wie immmer das Datum in gitHub
 Präsentation/Testen der Spiele: 25.01.2022  
 
