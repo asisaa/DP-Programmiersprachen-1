@@ -22,12 +22,13 @@ Wenn eine Antwort ausgewählt wurde, darf keine weitere Antwort auswählbar sein
 Das Spiel wird über das erneute Laden der Seite gestartet.
 
 Quiz Bonusfeatures
+- Die Angeklickten Button werden rot oder grün je nach dem ob die Antwort richtig oder falsch ist
 - Die Antworten stehen direkt auf den Button, anstatt im oberen Textfeld
 - Es gibt eine Highscore 
 - Es gibt eine Highscore Liste
 - In jeder Runde gibt es unterschiedliche Fragen 
-- Mutliplayer Modus z.B. Player1 und Player2 können gegeneinander spielen
-- Visuelle Effekte z.B. beim knacken der Highscore
+- Multiplayer Modus z.B. Player1 und Player2 können gegeneinander spielen
+- Visuelle Effekte z.B. beim Knacken der Highscore
 - Das gesamte CSS ist im Stylesheet
 - Der Start des Spiels geht über einen gesonderten "Start Game" Button 
 
