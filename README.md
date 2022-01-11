@@ -70,18 +70,19 @@ Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 ## lecture 07.12.21
-Topics of this lecture: Methodische vorgehensweise, Excercise(description in the example code of this lecture) 
+Topics of this lecture: Methodische vorgehensweise, Excercise(description in the example code of this lecture)
 
 Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
 ## lecture 14.12.21
-Topics of this lecture: Introduction to Final Project Quiz, Array exmaple shift, array example split 
+Topics of this lecture: Introduction to Final Project Quiz, Array exmaple shift, array example split
 
 Further links:
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 
+## lecture 21.12.21
+Vortrag: "Best practice game development" von Kathrin Radke, Kanban, getElementById  
 
-
-
-
+## lecture 11.01.21
+Problem solving in the context of design, JavaScript sort algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm 

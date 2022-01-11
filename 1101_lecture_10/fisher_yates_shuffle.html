@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Shuffle Array</h2>
+<h3>Fisher-Yates-Algorithm</h3>
+<p id="demo"></p>
+
+<script>
+//let array = ['A','B','C','D','E','F','G'];
+let array = [1, 5, 12, 41, 25, 7];
+//console.log(array);
+
+//Fisher Yates Modern Algorithm
+let i = array.length; 
+let k;   // k is to generate random index
+let temp;     //temp is to swap the values
+  
+    // Check if there's still elements remaining
+    while(--i > 0){
+
+    // Pick remaining element
+    //Math.floor() -> returns largest int less or equal to given number (Abrunden) 
+    //Math.random() -> Random number 0 less than 1 including 0 but not 1
+      k = Math.floor(Math.random() * (i+1));
+      
+      console.log("mathraddom", (Math.random() * (i+1)));
+      console.log("k",k);
+
+      //console.log(k);
+
+       // Swap it with the current element
+      temp = array[k];
+      array[k] = array[i];
+      array[i] = temp;
+   }
+
+document.getElementById("demo").innerHTML = array;
+</script>
