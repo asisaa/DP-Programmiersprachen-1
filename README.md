@@ -2,7 +2,6 @@
 hfg Schwäbisch Gmünd - Code examples and further links
 
 ## lecture 12.10.21
-Topics of this lecture:
 Organisatorisches, Lehrinhalte, Benotung, Struktur des Kurses, Einführung in p5*js, p5 Account erstellen, Robot und Symbol entwerfen und programmieren
 
 Links:
@@ -10,7 +9,6 @@ Sign in for p5*js: https://editor.p5js.org/
 p5*js References: https://p5js.org/reference/
 
 ## lecture 19.10.21
-Topics of this lecture:
 Compiler und Interpreter, Datentypen, Operatoren, Hauptthema: Variablen
 
 Further links:
@@ -31,7 +29,6 @@ https://p5js.org/examples/data-variable-scope.html
 
 
 ## lecture 26.10.21
-Topics of this lecture:
 Visual Studio Code nutzen, Einbinden der Processing library, Conditionals and If Else Statements, Logische Operatoren
 
 Further links:
@@ -45,7 +42,7 @@ https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-
 
 
 ## lecture 02.11.21
-Topics of this lecture: Code Review, While Loops, For Loops, Character Excercise
+Code Review, While Loops, For Loops, Character Excercise
 
 Further links:
 Code Review
@@ -58,25 +55,25 @@ For Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement
 
 ## lecture 16.11.21
-Topics of this lecture: Loops, Nested Loops, Objects, Arrays
+Loops, Nested Loops, Objects, Arrays
 
 Further reading:
 Horstmann, Cay (2021): JavaScript für Ungeduldige der schnelle Einstieg in modernes JavaScript, 1. Aufl., Heidelberg, Deutschland: dpunkt.verlag.
 
 ## lecture 30.11.21
-Topics of this lecture: Functions, discussion and presentation of homework assignment (array, object and bonus exercise)  
+Functions, discussion and presentation of homework assignment (array, object and bonus exercise)  
 
 Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 ## lecture 07.12.21
-Topics of this lecture: Methodische vorgehensweise, Excercise(description in the example code of this lecture)
+Methodische vorgehensweise, Excercise(description in the example code of this lecture)
 
 Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
 ## lecture 14.12.21
-Topics of this lecture: Introduction to Final Project Quiz, Array exmaple shift, array example split
+Introduction to Final Project Quiz, Array exmaple shift, array example split
 
 Further links:
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
