@@ -81,7 +81,7 @@ https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Ar
 ## lecture 21.12.21
 Vortrag: "Best practice game development" von Kathrin Radke, Kanban, getElementById  
 
-## lecture 11.01.21
+## lecture 11.01.22
 Problem solving in the context of design, JavaScript sort algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
 
 Further links:
