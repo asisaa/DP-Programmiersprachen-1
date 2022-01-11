@@ -67,13 +67,13 @@ Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 ## lecture 07.12.21
-Methodische vorgehensweise, Excercise(description in the example code of this lecture)
+Methodische Vorgehensweise, Excercise(description in the example code of this lecture)
 
 Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
 ## lecture 14.12.21
-Introduction to Final Project Quiz, Array exmaple shift, array example split
+Introduction to Final Project Quiz, Array example shift, array example split
 
 Further links:
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
