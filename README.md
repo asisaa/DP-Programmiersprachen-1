@@ -3,7 +3,7 @@ hfg Schwäbisch Gmünd - Hochschule für Gestaltung Schwäbisch Gmünd
 
 In this class the focus is to learn programming as a tool, to create, prototype and visualize.
 We cover basic programming elements such as variables, loops, conditions and classic algorithms.
-As well we cover complexity, prioritization and framing which is especially important in a creative and innovative context.
+As well we cover complexity, prioritization and framing which is especially important in a creative and innovative context. This repository does not cover the content of the complete class, it is for additional material, examples and links only.
 
 
 ## lecture 12.10.21
