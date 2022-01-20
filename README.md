@@ -1,5 +1,6 @@
 # 2122-iot1-programmiersprachen i
 hfg Schwäbisch Gmünd - Hochschule für Gestaltung Schwäbisch Gmünd
+
 In this class the focus is to learn programming as a tool, to create, prototype and visualize.
 We cover basic programming elements such as variables, loops, conditions and classic algorithms.
 As well we cover complexity, prioritization and framing which is especially important in a creative and innovative context.
