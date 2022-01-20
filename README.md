@@ -1,15 +1,19 @@
 # 2122-iot1-programmiersprachen i
-hfg Schwäbisch Gmünd - Code examples and further links
+hfg Schwäbisch Gmünd - Hochschule für Gestaltung Schwäbisch Gmünd
+In this class the focus is to learn programming as a tool, to create, prototype and visualize.
+We cover basic programming elements such as variables, loops, conditions and classic algorithms.
+As well we cover complexity, prioritization and framing which is especially important in a creative and innovative context.
+
 
 ## lecture 12.10.21
-Organisatorisches, Lehrinhalte, Benotung, Struktur des Kurses, Einführung in p5*js, p5 Account erstellen, Robot und Symbol entwerfen und programmieren
+Organizational overview, introduction in p5.js, symbol exercise
 
 Links:
 Sign in for p5*js: https://editor.p5js.org/
 p5*js References: https://p5js.org/reference/
 
 ## lecture 19.10.21
-Compiler und Interpreter, Datentypen, Operatoren, Hauptthema: Variablen
+Compiler and interpreter, datatypes, operators, main topic: variables
 
 Further links:
 Compiler & Interpreter
@@ -29,20 +33,20 @@ https://p5js.org/examples/data-variable-scope.html
 
 
 ## lecture 26.10.21
-Visual Studio Code nutzen, Einbinden der Processing library, Conditionals and If Else Statements, Logische Operatoren
+Conditionals, if else statements, logical operators
 
 Further links:
-JS Operators
+JS operators
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators
 
-If Else, Conditional Statements
+if else, conditional statements
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/if...else
 
 https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/
 
 
 ## lecture 02.11.21
-Code Review, While Loops, For Loops, Character Excercise
+Code review, while loops, for loops, character excercise
 
 Further links:
 Code Review
@@ -73,16 +77,16 @@ Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
 ## lecture 14.12.21
-Introduction to Final Project Quiz, Array example shift, array example split
+Introduction to final project quiz, deep dive arrays, examples shift and split
 
 Further links:
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 
 ## lecture 21.12.21
-Vortrag: "Best practice game development" von Kathrin Radke, Kanban, getElementById  
+External talk: "Best practice game development" von Kathrin Radke, introduction to Kanban  
 
 ## lecture 11.01.22
-Problem solving in the context of design, JavaScript sort algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
+Problem solving in the context of design, JavaScript sorting algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
 
 Further links:
 Fisher Yates Algorithm
@@ -91,3 +95,15 @@ Video by Adam Khoury: https://www.youtube.com/watch?v=tLxBwSL3lPQ
 
 JavaScript sort
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+## lecture 19.01.22
+Sorting algorithms, deep dive bubblesort and insertionsort
+
+Further links:
+great visual animated sorting algorithms
+https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+
+https://bost.ocks.org/mike/algorithms/
+
+p5.js visual bubblesort code example
+https://p5js.org/examples/simulate-bubble-sort.html
