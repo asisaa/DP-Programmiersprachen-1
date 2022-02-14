@@ -1,4 +1,4 @@
-# 2122-iot1-programmiersprachen i
+# iot1-programmiersprachen i
 hfg Schwäbisch Gmünd - Hochschule für Gestaltung Schwäbisch Gmünd
 
 In this class the focus is to learn programming as a tool, to create, prototype and visualize.
