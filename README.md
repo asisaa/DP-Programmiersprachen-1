@@ -1,4 +1,4 @@
-# 2122-iot1-programmiersprachen i
+# iot1-programmiersprachen i
 hfg Schwäbisch Gmünd - Hochschule für Gestaltung Schwäbisch Gmünd
 
 In this class the focus is to learn programming as a tool, to create, prototype and visualize.
@@ -6,14 +6,14 @@ We cover basic programming elements such as variables, loops, conditions and cla
 As well we cover complexity, prioritization and framing which is especially important in a creative and innovative context. This repository does not cover the content of the complete class, it is for additional material, examples and links only.
 
 
-## lecture 12.10.21
+## lecture 01
 Organizational overview, introduction in p5.js, symbol exercise
 
 Links:
 Sign in for p5*js: https://editor.p5js.org/
 p5*js References: https://p5js.org/reference/
 
-## lecture 19.10.21
+## lecture 02
 Compiler and interpreter, datatypes, operators, main topic: variables
 
 Further links:
@@ -33,7 +33,7 @@ P5 JS Variablen global & local scope example
 https://p5js.org/examples/data-variable-scope.html
 
 
-## lecture 26.10.21
+## lecture 03
 Conditionals, if else statements, logical operators
 
 Further links:
@@ -46,7 +46,7 @@ https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/if...e
 https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/
 
 
-## lecture 02.11.21
+## lecture 04
 Code review, while loops, for loops, character excercise
 
 Further links:
@@ -59,34 +59,34 @@ https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#w
 For Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement
 
-## lecture 16.11.21
+## lecture 05
 Loops, Nested Loops, Objects, Arrays
 
 Further reading:
 Horstmann, Cay (2021): JavaScript für Ungeduldige der schnelle Einstieg in modernes JavaScript, 1. Aufl., Heidelberg, Deutschland: dpunkt.verlag.
 
-## lecture 30.11.21
+## lecture 06
 Functions, discussion and presentation of homework assignment (array, object and bonus exercise)  
 
 Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
-## lecture 07.12.21
+## lecture 07
 Methodische Vorgehensweise, Excercise(description in the example code of this lecture)
 
 Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
-## lecture 14.12.21
+## lecture 08
 Introduction to final project quiz, deep dive arrays, examples shift and split
 
 Further links:
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 
-## lecture 21.12.21
+## lecture 09
 External talk: "Best practice game development" von Kathrin Radke, introduction to Kanban  
 
-## lecture 11.01.22
+## lecture 10
 Problem solving in the context of design, JavaScript sorting algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
 
 Further links:
@@ -97,7 +97,7 @@ Video by Adam Khoury: https://www.youtube.com/watch?v=tLxBwSL3lPQ
 JavaScript sort
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 
-## lecture 19.01.22
+## lecture 11
 Sorting algorithms, deep dive bubblesort and insertionsort
 
 Further links:
