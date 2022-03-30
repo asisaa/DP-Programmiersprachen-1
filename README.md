@@ -78,7 +78,7 @@ Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
 ## lecture 08
-Introduction to final project quiz, deep dive arrays, examples shift and split
+Introduction to final project, deep dive arrays, examples shift and split
 
 Further links:
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
