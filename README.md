@@ -45,6 +45,9 @@ https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/if...e
 
 https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/
 
+Further reading: 
+Arslan, Engin (2018): Learn JavaScript with p5.js, 1. Aufl., Toronto, Kanada: Apress.
+
 
 ## lecture 04
 Code review, while loops, for loops, character excercise
