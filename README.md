@@ -45,16 +45,14 @@ https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Statements/if...e
 
 https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/
 
-Further reading: 
+Further reading:
 Arslan, Engin (2018): Learn JavaScript with p5.js, 1. Aufl., Toronto, Kanada: Apress.
 
 
 ## lecture 04
-Code review, while loops, for loops, character excercise
+Loops, Nested Loops
 
 Further links:
-Code Review
-https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/
 
 While Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#while_statement
@@ -63,31 +61,39 @@ For Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement
 
 ## lecture 05
-Loops, Nested Loops, Objects, Arrays
+Objects, Arrays
+
+Further links:
+
+Objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+
+Arrays
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 Further reading:
 Horstmann, Cay (2021): JavaScript für Ungeduldige der schnelle Einstieg in modernes JavaScript, 1. Aufl., Heidelberg, Deutschland: dpunkt.verlag.
 
 ## lecture 06
-Functions, discussion and presentation of homework assignment (array, object and bonus exercise)  
+Functions  
 
 Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 ## lecture 07
-Methodische Vorgehensweise, Excercise(description in the example code of this lecture)
+Methods for Problem Solving, Exercise (description in the example code of this lecture)
 
 Further links:
 https://nycdoe-cs4all.github.io/units/5/overview
 
 ## lecture 08
-Introduction to final project, deep dive arrays, examples shift and split
+Introduction to final project
 
 Further links:
 https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 
 ## lecture 09
-External talk: "Best practice game development" von Kathrin Radke, introduction to Kanban  
+External talk: "Best practice game development" von Kathrin Radke
 
 ## lecture 10
 Problem solving in the context of design, JavaScript sorting algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
