@@ -81,21 +81,17 @@ Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 ## lecture 07
-Methods for Problem Solving, Exercise (description in the example code of this lecture)
-
-Further links:
-https://nycdoe-cs4all.github.io/units/5/overview
+Recab of loops, conditions and variables, using data from CSV files in p5.js
 
 ## lecture 08
+External talk: "Best practice game development" von Kathrin Radke
 Introduction to final project
 
-Further links:
-https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
-
 ## lecture 09
-External talk: "Best practice game development" von Kathrin Radke
+Coding final project
 
 ## lecture 10
+Coding final project
 Problem solving in the context of design, JavaScript sorting algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
 
 Further links:
@@ -107,6 +103,7 @@ JavaScript sort
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 
 ## lecture 11
+Coding final project
 Sorting algorithms, deep dive bubblesort and insertionsort
 
 Further links:
