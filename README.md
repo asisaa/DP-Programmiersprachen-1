@@ -85,6 +85,7 @@ Recab of loops, conditions and variables, using data from CSV files in p5.js
 
 ## lecture 08
 External talk: "Best practice game development" von Kathrin Radke
+
 Introduction to final project
 
 ## lecture 09
@@ -92,6 +93,7 @@ Coding final project
 
 ## lecture 10
 Coding final project
+
 Problem solving in the context of design, JavaScript sorting algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
 
 Further links:
@@ -104,6 +106,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ## lecture 11
 Coding final project
+
 Sorting algorithms, deep dive bubblesort and insertionsort
 
 Further links:
