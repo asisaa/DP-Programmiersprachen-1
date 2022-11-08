@@ -1,3 +1,4 @@
+/* learning variables, drawing a face using only two variables */
 let x;
 let y;
 
@@ -8,7 +9,7 @@ function setup() {
   z = false;
   console.log(typeof x);
 
-}
+} 
 
 function draw() {
   background(220);

@@ -84,8 +84,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 Recab of loops, conditions and variables, using data from CSV files in p5.js
 
 ## lecture 08
-External talk: "Best practice game development" von Kathrin Radke
-
 Introduction to final project
 
 ## lecture 09
