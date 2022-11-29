@@ -80,11 +80,13 @@ Functions
 Further link:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
+Kanban, Refectoring
+
 ## lecture 07
-Recab of loops, conditions and variables, using data from CSV files in p5.js
+Introduction to final project
 
 ## lecture 08
-Introduction to final project
+Coding final project
 
 ## lecture 09
 Coding final project
@@ -92,26 +94,6 @@ Coding final project
 ## lecture 10
 Coding final project
 
-Problem solving in the context of design, JavaScript sorting algorithm, arrays shuffle with sort(), array shuffle with Fisher-Yates modern algorithm
-
-Further links:
-Fisher Yates Algorithm
-https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
-Video by Adam Khoury: https://www.youtube.com/watch?v=tLxBwSL3lPQ
-
-JavaScript sort
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
-
 ## lecture 11
-Coding final project
+Coding final project presentation
 
-Sorting algorithms, deep dive bubblesort and insertionsort
-
-Further links:
-great visual animated sorting algorithms
-https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
-
-https://bost.ocks.org/mike/algorithms/
-
-p5.js visual bubblesort code example
-https://p5js.org/examples/simulate-bubble-sort.html
