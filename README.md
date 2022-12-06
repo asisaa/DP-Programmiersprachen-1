@@ -96,6 +96,9 @@ Setup
 Feature Overview
 https://github.com/katerinafedotova/IoT-Programmiersprachen-1-tutorial/tree/main/final-task
 
+Submission date:
+Final project submission Sunday: 22.01.2023 end of day.
+
 
 ## lecture 08
 Coding final project - XMAS edition! 
