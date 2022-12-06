@@ -85,8 +85,21 @@ Kanban, Refectoring
 ## lecture 07
 Introduction to final project
 
+Slide Puzzle:
+Tech Stack: 
+- JavaScript, Html, CSS 
+- Chrome Version: 108.0.5359.94 or higher
+
+Setup
+- Create a new folder in your existing gitHub repository and name it: my_final_project_firstname
+
+Feature Overview
+https://github.com/katerinafedotova/IoT-Programmiersprachen-1-tutorial/tree/main/final-task
+
+
 ## lecture 08
-Coding final project
+Coding final project - XMAS edition! 
+Hack session - Bring your favorite 🍪 cookies.  
 
 ## lecture 09
 Coding final project
