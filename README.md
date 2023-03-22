@@ -95,5 +95,11 @@ Coding final project
 Coding final project
 
 ## lecture 11
+Coding final project
+
+## lecture 12
 Coding final project presentation
+
+## lecture 13
+Refactor
 
