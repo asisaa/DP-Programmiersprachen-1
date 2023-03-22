@@ -1,5 +1,5 @@
-# IoT1-Programmiersprachen 1
-hfg Schwäbisch Gmünd - Hochschule für Gestaltung Schwäbisch Gmünd
+# DP1-Programmiersprachen 1
+Hochschule für Gestaltung Schwäbisch Gmünd
 
 In this class the focus is to learn programming as a tool, to create, prototype and visualize.
 We cover basic programming elements such as variables, loops, conditions and classic algorithms.
@@ -85,24 +85,8 @@ Kanban, Refectoring
 ## lecture 07
 Introduction to final project
 
-Slide Puzzle:
-Tech Stack: 
-- JavaScript, Html, CSS 
-- Chrome Version: 108.0.5359.94 or higher
-
-Setup
-- Create a new folder in your existing gitHub repository and name it: my_final_project_firstname
-
-Feature Overview
-https://github.com/katerinafedotova/IoT-Programmiersprachen-1-tutorial/tree/main/final-task
-
-Submission date:
-Final project submission Sunday: 22.01.2023 end of day.
-
-
 ## lecture 08
-Coding final project - XMAS edition! 
-Hack session - Bring your favorite 🍪 cookies.  
+Coding final project 
 
 ## lecture 09
 Coding final project
