@@ -26,6 +26,9 @@ https://www.w3schools.com/js/js_intro.asp
 JS Documentation
 https://devdocs.io/javascript/
 
+## lecture 03
+Variables deep dive, flow of conrtol
+
 JS CheatSheet
 https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
 
@@ -33,7 +36,7 @@ P5 JS Variablen global & local scope example
 https://p5js.org/examples/data-variable-scope.html
 
 
-## lecture 03
+## lecture 04
 Conditionals, if else statements, logical operators
 
 Further links:
@@ -49,7 +52,7 @@ Further reading:
 Arslan, Engin (2018): Learn JavaScript with p5.js, 1. Aufl., Toronto, Kanada: Apress.
 
 
-## lecture 04
+## lecture 05
 Loops, Nested Loops
 
 Further links:
@@ -60,7 +63,7 @@ https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#w
 For Loop
 https://developer.mozilla.org/de/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement
 
-## lecture 05
+## lecture 06
 Objects, Arrays
 
 Further links:
@@ -74,7 +77,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Further reading:
 Horstmann, Cay (2021): JavaScript für Ungeduldige der schnelle Einstieg in modernes JavaScript, 1. Aufl., Heidelberg, Deutschland: dpunkt.verlag.
 
-## lecture 06
+## lecture 07
 Functions  
 
 Further link:
@@ -82,14 +85,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 Kanban, Refectoring
 
-## lecture 07
+## lecture 08
 Introduction to final project
 
-## lecture 08
-Coding final project 
-
 ## lecture 09
-Coding final project
+Coding final project 
 
 ## lecture 10
 Coding final project
@@ -98,8 +98,8 @@ Coding final project
 Coding final project
 
 ## lecture 12
-Coding final project presentation
+Coding final project
 
 ## lecture 13
-Refactor
+Coding final project presentation
 
