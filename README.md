@@ -27,7 +27,7 @@ JS Documentation
 https://devdocs.io/javascript/
 
 ## lecture 03
-Variables deep dive, flow of conrtol
+Variables deep dive, flow of control
 
 JS CheatSheet
 https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
